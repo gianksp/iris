@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/application_6.xsd" version="6">
+  <display-name>com.skynet.iris</display-name>
+  <module>
+    <ejb>com.skynet.iris.base-1.0-SNAPSHOT.jar</ejb>
+  </module>
+  <module>
+    <web>
+      <web-uri>com.skynet.iris.http-1.0-SNAPSHOT.war</web-uri>
+      <context-root>/com.skynet.iris.http</context-root>
+    </web>
+  </module>
+  <library-directory>lib</library-directory>
+</application>
