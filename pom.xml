@@ -11,7 +11,7 @@
         <module>com.skynet.iris.http</module>
         <module>com.skynet.iris.base</module>
         <module>com.skynet.iris.common</module>
-        <module>../programJ/programJ</module>
+        <module>../iris-engine</module>
     </modules>
   
     <dependencyManagement>
