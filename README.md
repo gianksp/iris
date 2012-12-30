@@ -5,7 +5,6 @@ Java Enterprise Application for iris-engine based chat bots. Optimized for Glass
 http://localhost:8080/Communication?bot=xxx&pass=xxx&openfire=xxx&client=xxx where:
 
 ```
-**PARAMETERS**
 bot       = name of the bot (xmpp server login)
 pass      = password of bot (xmpp server password)
 openfire  = ip address of xmpp server
