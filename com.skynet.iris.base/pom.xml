@@ -39,9 +39,9 @@
             <version>${project.version}</version>
         </dependency>
         <dependency>
-            <groupId>com.botrepo</groupId>
-            <artifactId>programJ</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>iris-engine</artifactId>
+            <version>${project.version}</version>
         </dependency>
         <dependency>
             <groupId>javax</groupId>
